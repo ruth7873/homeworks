@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ace1382-5fc9-4ddf-9182-9ccab3b113aa" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2andt38ohoZxGuGwHT3UcQ4mRDy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "Y:/Groups/Group_1/הרשלר  רות/אוטומציה111/פרויקט",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ChromeTest.ChromeStore (1)">
+    <configuration name="About.About" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="פרויקט" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PagesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PagesTests" />
+      <option name="MAIN_CLASS_NAME" value="PagesTests.About" />
+      <option name="METHOD_NAME" value="About" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Account.ChromeStore (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CromfirstTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PagesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PagesTests" />
+      <option name="MAIN_CLASS_NAME" value="PagesTests.Account" />
+      <option name="METHOD_NAME" value="ChromeStore(org.openqa.selenium.WebDriver)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Account.ChromeStore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CromfirstTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PagesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PagesTests" />
+      <option name="MAIN_CLASS_NAME" value="PagesTests.Account" />
+      <option name="METHOD_NAME" value="ChromeStore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChromeTest.ChromeStore (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="פרויקט" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ChromeTest" />
+      <option name="METHOD_NAME" value="ChromeStore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChromeTest.ChromeStore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CromfirstTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ChromeTest" />
+      <option name="METHOD_NAME" value="ChromeStore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="פרויקט" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="פרויקט" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ChromeTest.ChromeStore (1)" />
+        <item itemvalue="JUnit.About.About" />
+        <item itemvalue="JUnit.ChromeTest.ChromeStore" />
+        <item itemvalue="JUnit.Account.ChromeStore (1)" />
+        <item itemvalue="JUnit.Account.ChromeStore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ace1382-5fc9-4ddf-9182-9ccab3b113aa" name="Changes" comment="" />
+      <created>1704958489790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704958489790</updated>
+      <workItem from="1704958491086" duration="7013000" />
+      <workItem from="1704976890758" duration="300000" />
+      <workItem from="1704977207654" duration="1010000" />
+      <workItem from="1705567797635" duration="1112000" />
+      <workItem from="1705569839459" duration="11000" />
+      <workItem from="1705828089151" duration="2256000" />
+      <workItem from="1705833619299" duration="661000" />
+      <workItem from="1705834314732" duration="1629000" />
+      <workItem from="1705836649766" duration="15000" />
+      <workItem from="1706179315732" duration="127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CromfirstTest$ChromeTest_ChromeStore.ic" NAME="ChromeTest.ChromeStore Coverage Results" MODIFIED="1704965333545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tests.*</FILTER>
+    </SUITE>
+  </component>
+</project>
