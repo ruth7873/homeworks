@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Commander.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|solutionrelative:chapter6\\Commander.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Soldier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|solutionrelative:chapter6\\Soldier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Commander.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|solutionrelative:chapter6\\Commander.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Private.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|solutionrelative:chapter6\\Private.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\chapter6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|solutionrelative:chapter6\\chapter6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Soldier.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|solutionrelative:chapter6\\Soldier.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Officer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|solutionrelative:chapter6\\Officer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Officer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|solutionrelative:chapter6\\Officer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\XSTRING||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Private.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E23DE613-6D70-4A5B-B12B-B80292080CEF}|chapter6\\chapter6.vcxproj|solutionrelative:chapter6\\Private.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "ViewState": "AQIAALUIAAAAAAAAAAAiwMMIAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-27T22:28:57.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Officer.cpp",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Officer.cpp",
+              "RelativeDocumentMoniker": "chapter6\\Officer.cpp",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Officer.cpp",
+              "RelativeToolTip": "chapter6\\Officer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T18:22:07.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Officer.h",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Officer.h",
+              "RelativeDocumentMoniker": "chapter6\\Officer.h",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Officer.h",
+              "RelativeToolTip": "chapter6\\Officer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-27T18:02:37.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Commander.cpp",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Commander.cpp",
+              "RelativeDocumentMoniker": "chapter6\\Commander.cpp",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Commander.cpp",
+              "RelativeToolTip": "chapter6\\Commander.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T17:58:00.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Commander.h",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Commander.h",
+              "RelativeDocumentMoniker": "chapter6\\Commander.h",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Commander.h",
+              "RelativeToolTip": "chapter6\\Commander.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-27T17:46:55.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Soldier.cpp",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Soldier.cpp",
+              "RelativeDocumentMoniker": "chapter6\\Soldier.cpp",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Soldier.cpp",
+              "RelativeToolTip": "chapter6\\Soldier.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T16:48:16.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Private.cpp",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Private.cpp",
+              "RelativeDocumentMoniker": "chapter6\\Private.cpp",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Private.cpp",
+              "RelativeToolTip": "chapter6\\Private.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T17:10:17.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Private.h",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Private.h",
+              "RelativeDocumentMoniker": "chapter6\\Private.h",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Private.h",
+              "RelativeToolTip": "chapter6\\Private.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-27T16:58:32.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Soldier.h",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Soldier.h",
+              "RelativeDocumentMoniker": "chapter6\\Soldier.h",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\Soldier.h",
+              "RelativeToolTip": "chapter6\\Soldier.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-26T19:18:07.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "chapter6.cpp",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\chapter6.cpp",
+              "RelativeDocumentMoniker": "chapter6\\chapter6.cpp",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\year b\\C\u002B\u002B\\\u05EA\u05E8\u05D2\u05D9\u05DC\u05D9\u05DD\\\u05E8\u05D5\u05EA \u05D4\u05E8\u05E9\u05DC\u05E8 \u05D51 \u05E4\u05E8\u05E7 6\\chapter6\\chapter6\\chapter6.cpp",
+              "RelativeToolTip": "chapter6\\chapter6.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T19:10:30.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
